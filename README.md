@@ -1,4 +1,4 @@
-# Kut Game (under development)
+# Kut Game
 
 ## Based on Rummikub, a famous tabletop game. Rummikub is considered to be a mixture of traditional games Rumy and Mahjong.
 
